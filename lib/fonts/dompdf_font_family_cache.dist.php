@@ -108,4 +108,10 @@
     'italic' => DOMPDF_DIR . '/lib/fonts/DejaVuSerifCondensed-Italic',
     'normal' => DOMPDF_DIR . '/lib/fonts/DejaVuSerifCondensed',
   ),
+  'arial' => array(
+    'normal' => DOMPDF_FONT_DIR . 'arial',
+    'bold' => DOMPDF_FONT_DIR . 'arialbd',
+    'italic' => DOMPDF_FONT_DIR . 'ariali',
+    'bold_italic' => DOMPDF_FONT_DIR . 'arialbi',
+  ),
 ) ?>
